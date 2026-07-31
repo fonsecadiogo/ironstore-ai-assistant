@@ -17,7 +17,9 @@ Build an AI-powered enterprise assistant that enables employees to access intern
 
 Your team has collected a set of internal company documents from different departments.
 
-These documents are available in the `documents` directory. Explore the available data and determine how it can be used to build an assistant capable of answering employees' questions accurately and reliably.
+These documents are available in the `documents` directory. 
+
+Before you start building the assistant, inspect the documents to understand what information they contain, how they are structured.
 
 The dataset has been synthetically generated, as this type of internal company information is typically not publicly available. However, it has been designed to be as realistic as possible and to resemble the kinds of documents you would encounter in a real organization.
 
