@@ -1,0 +1,31 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.venv/
+
+# Python cache and tests
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# React / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env.*
+!frontend/.env.example
+
+# Runtime databases
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Local documents and temporary files
+*.log
+.DS_Store
+Thumbs.db
+# macOS archive metadata
+documents/extracted/__MACOSX/
+._*
